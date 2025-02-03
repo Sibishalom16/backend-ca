@@ -1,0 +1,25 @@
+{
+  "name": "backend-ca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sibishalom16/backend-ca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sibishalom16/backend-ca/issues"
+  },
+  "homepage": "https://github.com/Sibishalom16/backend-ca#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "gitignore": "^0.7.0"
+  }
+}
